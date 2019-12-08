@@ -1,5 +1,5 @@
-# dalibor-display
-This is a 1 Nixie Tube holder board with 3-channel LED lighting. Pretty Simple
+# dalibors-docks
+This is a 1 Nixie Tube holder board with 3-channel LED lighting. Pretty Simple.
 
 
 ## Overview
